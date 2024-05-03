@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\bin\Debug\net8.0\Exercise_Inheritance.exe
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\bin\Debug\net8.0\Exercise_Inheritance.deps.json
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\bin\Debug\net8.0\Exercise_Inheritance.runtimeconfig.json
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\bin\Debug\net8.0\Exercise_Inheritance.dll
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\bin\Debug\net8.0\Exercise_Inheritance.pdb
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\obj\Debug\net8.0\Exercise_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\obj\Debug\net8.0\Exercise_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\obj\Debug\net8.0\Exercise_Inheritance.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\obj\Debug\net8.0\Exercise_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\obj\Debug\net8.0\Exercise_Inheritance.dll
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\obj\Debug\net8.0\refint\Exercise_Inheritance.dll
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\obj\Debug\net8.0\Exercise_Inheritance.pdb
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\obj\Debug\net8.0\Exercise_Inheritance.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Exercise_Inheritance\Exercise_Inheritance\obj\Debug\net8.0\ref\Exercise_Inheritance.dll
